@@ -16,9 +16,6 @@ export default function Body() {
 </div> */}
 
 
-<article className="wrapper">
-  <h2 className="title text-center">comming soon...</h2>
-</article>
     </>
   )
 }
